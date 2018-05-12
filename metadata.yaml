@@ -1,0 +1,36 @@
+_repo: Peter-Cotterell-s-Treasure_43670
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Thomson, Will
+    gutenberg_agent_id: '42358'
+    url: http://www.gutenberg.org/2009/agents/42358
+covers:
+- cover_type: archival
+  image_path: 43670-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holland, Rupert Sargent
+    aliases:
+    - Holland, Rupert S. (Rupert Sargent)
+    - Holland, R. S. (Rupert Sargent)
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '26423'
+    url: http://www.gutenberg.org/2009/agents/26423
+description: ''
+gutenberg_issued: '2013-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+title: Peter Cotterell's Treasure
+url: http://www.gutenberg.org/ebooks/43670
