@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '26423'
     url: http://www.gutenberg.org/2009/agents/26423
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43670#Peter-Cotterell-s-Treasure
 gutenberg_issued: '2013-09-08'
 gutenberg_type: Text
 identifiers:
